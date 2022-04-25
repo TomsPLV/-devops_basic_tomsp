@@ -1,1 +1,2 @@
-# -devops_basic_tomsp
+DevOps repozitorijs
+Toms Paulins DevOps repozitorijs pamati iesācējiem
